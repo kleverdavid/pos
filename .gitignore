@@ -1,0 +1,9 @@
+/vendor
+/node_modules
+public_html.zip
+ultimateposv5.sql
+.env
+/storage/*.key
+/public/storage
+.DS_Store
+Thumbs.db
